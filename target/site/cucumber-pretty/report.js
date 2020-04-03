@@ -12,6 +12,10 @@ formatter.feature({
     }
   ]
 });
+formatter.before({
+  "duration": 5943889777,
+  "status": "passed"
+});
 formatter.background({
   "line": 6,
   "name": "",
@@ -28,7 +32,8 @@ formatter.match({
   "location": "MessengerSD.setMessengerPage()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2614535554,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 10,
@@ -78,7 +83,8 @@ formatter.match({
   "location": "MessengerSD.enterDataIntoTextField(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 203280772,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -94,18 +100,25 @@ formatter.match({
   "location": "MessengerSD.enterDataIntoTextField(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 74808564,
+  "status": "passed"
 });
 formatter.match({
   "location": "MessengerSD.clickOnSignButton()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2284735090,
+  "status": "passed"
 });
 formatter.match({
   "location": "MessengerSD.verifySignInMessage()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 23568461,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 116624416,
+  "status": "passed"
 });
 });

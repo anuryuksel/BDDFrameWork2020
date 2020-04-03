@@ -335,3 +335,8 @@
 2020-04-03 02:00:17,115  INFO [main] SharedSD:39 - Cleanup!
 2020-04-03 02:00:17,115  INFO [main] SharedSD:40 - Test completed!
 2020-04-03 02:00:17,116  INFO [main] SharedSD:42 - ********************************
+2020-04-03 18:08:10,725  INFO [main] SharedSD:23 - *************************
+2020-04-03 18:08:10,730  INFO [main] SharedSD:24 - Test setup is starting...!
+2020-04-03 18:08:21,823  INFO [main] SharedSD:39 - Cleanup!
+2020-04-03 18:08:21,824  INFO [main] SharedSD:40 - Test completed!
+2020-04-03 18:08:21,824  INFO [main] SharedSD:42 - ********************************

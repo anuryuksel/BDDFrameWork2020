@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7e34ea3-7914-47f9-a531-7245085c1600" name="Default Changelist" comment="" />
+    <list default="true" id="f7e34ea3-7914-47f9-a531-7245085c1600" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.logs/application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -26,12 +37,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1Zb1pw6vrK8yXgCwYTou7Fzk1W7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -43,7 +56,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Verify invalid login for multiple users">
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="Scenario: Verify invalid login for multiple users" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
@@ -106,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Scenario: Verify invalid login for multiple users" />
         <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Scenario: Verify invalid login for multiple users" />
         <item itemvalue="Cucumber java.Scenario: Verify invalid login from messenger page" />
         <item itemvalue="Java Scratch.ActionsDemo" />
       </list>
@@ -136,8 +149,8 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="316" y="362" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.877/1440.23.1600.811@0.23.1440.877" timestamp="1585095319711" />
-    <state width="1398" height="321" key="GridCell.Tab.0.bottom" timestamp="1585893850919">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="321" key="GridCell.Tab.0.bottom" timestamp="1585951688592">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1585184122086" />
     <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.23.1600.877@0.23.1440.812" timestamp="1585354862120" />
@@ -147,11 +160,12 @@
     <state width="1398" height="321" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1585893850919" />
     <state width="1398" height="320" key="GridCell.Tab.0.bottom/0.23.1440.821/1440.23.1600.877@0.23.1440.821" timestamp="1585356638730" />
     <state width="1398" height="320" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585360726052" />
+    <state width="1398" height="321" key="GridCell.Tab.0.bottom/0.23.1440.822/1440.23.1600.877@0.23.1440.822" timestamp="1585951688592" />
     <state width="1398" height="320" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585362282631" />
     <state width="1398" height="321" key="GridCell.Tab.0.bottom/0.23.1440.829/1440.23.1600.877@0.23.1440.829" timestamp="1585859081583" />
     <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1600.806@0.23.1440.877" timestamp="1585345826358" />
-    <state width="1398" height="321" key="GridCell.Tab.0.center" timestamp="1585893850918">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="321" key="GridCell.Tab.0.center" timestamp="1585951688592">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1585184122084" />
     <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.812/1440.23.1600.877@0.23.1440.812" timestamp="1585354862119" />
@@ -161,11 +175,12 @@
     <state width="1398" height="321" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1585893850918" />
     <state width="1398" height="320" key="GridCell.Tab.0.center/0.23.1440.821/1440.23.1600.877@0.23.1440.821" timestamp="1585356638729" />
     <state width="1398" height="320" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585360726052" />
+    <state width="1398" height="321" key="GridCell.Tab.0.center/0.23.1440.822/1440.23.1600.877@0.23.1440.822" timestamp="1585951688592" />
     <state width="1398" height="320" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1585362282630" />
     <state width="1398" height="321" key="GridCell.Tab.0.center/0.23.1440.829/1440.23.1600.877@0.23.1440.829" timestamp="1585859081581" />
     <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1600.806@0.23.1440.877" timestamp="1585345826357" />
-    <state width="1398" height="321" key="GridCell.Tab.0.left" timestamp="1585893850918">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="321" key="GridCell.Tab.0.left" timestamp="1585951688591">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1585184122083" />
     <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.812/1440.23.1600.877@0.23.1440.812" timestamp="1585354862119" />
@@ -175,11 +190,12 @@
     <state width="1398" height="321" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1585893850918" />
     <state width="1398" height="320" key="GridCell.Tab.0.left/0.23.1440.821/1440.23.1600.877@0.23.1440.821" timestamp="1585356638728" />
     <state width="1398" height="320" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585360726051" />
+    <state width="1398" height="321" key="GridCell.Tab.0.left/0.23.1440.822/1440.23.1600.877@0.23.1440.822" timestamp="1585951688591" />
     <state width="1398" height="320" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1585362282629" />
     <state width="1398" height="321" key="GridCell.Tab.0.left/0.23.1440.829/1440.23.1600.877@0.23.1440.829" timestamp="1585859081581" />
     <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1600.806@0.23.1440.877" timestamp="1585345826357" />
-    <state width="1398" height="321" key="GridCell.Tab.0.right" timestamp="1585893850919">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state width="1398" height="321" key="GridCell.Tab.0.right" timestamp="1585951688592">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1585184122085" />
     <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.812/1440.23.1600.877@0.23.1440.812" timestamp="1585354862120" />
@@ -189,6 +205,7 @@
     <state width="1398" height="321" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1585893850919" />
     <state width="1398" height="320" key="GridCell.Tab.0.right/0.23.1440.821/1440.23.1600.877@0.23.1440.821" timestamp="1585356638729" />
     <state width="1398" height="320" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585360726052" />
+    <state width="1398" height="321" key="GridCell.Tab.0.right/0.23.1440.822/1440.23.1600.877@0.23.1440.822" timestamp="1585951688592" />
     <state width="1398" height="320" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585362282630" />
     <state width="1398" height="321" key="GridCell.Tab.0.right/0.23.1440.829/1440.23.1600.877@0.23.1440.829" timestamp="1585859081582" />
     <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1600.806@0.23.1440.877" timestamp="1585345826357" />

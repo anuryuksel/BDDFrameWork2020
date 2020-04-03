@@ -11,7 +11,8 @@
         "steps": [
           {
             "result": {
-              "status": "skipped"
+              "duration": 2614535554,
+              "status": "passed"
             },
             "line": 7,
             "name": "I am on messenger page",
@@ -23,16 +24,39 @@
         ]
       },
       {
+        "before": [
+          {
+            "result": {
+              "duration": 5943889777,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.setUp()"
+            }
+          }
+        ],
         "line": 10,
         "name": "Verify invalid login from messenger page",
         "description": "",
         "id": "messenger-page-feature;verify-invalid-login-from-messenger-page",
+        "after": [
+          {
+            "result": {
+              "duration": 116624416,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.teardown(Scenario)"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "status": "skipped"
+              "duration": 203280772,
+              "status": "passed"
             },
             "line": 11,
             "name": "I enter anuryuksel1235@gmail.com into username field on the messenger page",
@@ -53,7 +77,8 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 74808564,
+              "status": "passed"
             },
             "line": 12,
             "name": "I enter test123 into password field on the messenger page",
@@ -74,7 +99,8 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 2284735090,
+              "status": "passed"
             },
             "line": 13,
             "name": "I click on login button on messenger page",
@@ -85,7 +111,8 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 23568461,
+              "status": "passed"
             },
             "line": 14,
             "name": "I verify invalid login message on sign in page",
